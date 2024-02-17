@@ -1,4 +1,4 @@
-## Olá, eu sou o Sergio, desenvolvedor Web...
+## Olá, eu sou o Sergio, desenvolvedor Front end. 
 <p>Link do Meu <a href="https://sergioberge.github.io/Portifolio_online/" target="_blank" >PORTIFÓLIO</a>  </p>
 
 <div style="display: inline_block"><br>
