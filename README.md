@@ -9,7 +9,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="React js" height="30" width="40" src="https://usemobile.com.br/wp-content/uploads/2022/08/react-native-logo.png">
       <img align="center" alt="React js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
-            <img align="center" alt="React js" height="30" width="40" src="https://www.mindrops.com/images/nodejs-image.webp">
+            <img align="center" alt="React js" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*bc9pmTiyKR0WNPka2w3e0Q.png">
 
 
 
