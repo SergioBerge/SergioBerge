@@ -10,6 +10,7 @@
    <img align="center" alt="React js" height="30" width="40" src="https://usemobile.com.br/wp-content/uploads/2022/08/react-native-logo.png">
       <img align="center" alt="React js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
             <img align="center" alt="React js" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*bc9pmTiyKR0WNPka2w3e0Q.png">
+            <img align="center" alt="React js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
 
 
 
