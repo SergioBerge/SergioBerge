@@ -1,4 +1,4 @@
-## Olá, eu sou o Sergio, desenvolvedor Front end. 
+## Olá, eu sou o Sergio, Desenvolvedor Front-End com mais de 2 anos de experiência em React.js, TypeScript e JavaScript. Atuação em sistemas web escaláveis, com foco em entrega de soluções de alta performance e experiência de usuário. Profundo interesse em Node.js, MongoDB, API RESTful, Azure e DevOps, sempre em busca de novos desafios e aprimoramento contínuo.. 
 <p>Link do Meu <a href="https://sergioberge.github.io/Portifolio_online/" target="_blank" >PORTIFÓLIO</a>  </p>
 
 <div style="display: inline_block"><br>
